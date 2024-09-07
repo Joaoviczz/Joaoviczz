@@ -7,7 +7,7 @@
       <p style="font-family: monospace; font-size: 16px;">
        
     +-------------------------+
-    | A S T R O F I S I C A S |
+    |    J O A O V I C Z Z    |
     +-------------------------+
 
 </p>
